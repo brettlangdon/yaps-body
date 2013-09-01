@@ -1,0 +1,25 @@
+{
+    "author": "Brett Langdon <brett@blangdon.com> (http://brett.is)",
+    "bugs": {
+        "url": "https://github.com/brettlangdon/yaps-body/issues"
+    },
+    "description": "Body parser plugin for YAPS",
+    "keywords": [
+        "body",
+        "parser",
+        "http",
+        "server",
+        "yaps"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "yaps-body",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/brettlangdon/yaps-body.git"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "version": "0.1.0"
+}
